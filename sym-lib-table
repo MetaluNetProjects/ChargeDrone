@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name TP4056module)(type Legacy)(uri /home/arsene/Patchs/MetaluNet/GroupeF/ChargeDrone/ChargeDronePCB/TP4056module.lib)(options "")(descr ""))
+  (lib (name Pack2Batteries)(type Legacy)(uri /home/arsene/Patchs/MetaluNet/GroupeF/ChargeDrone/ChargeDronePCB/Pack2Batteries.lib)(options "")(descr ""))
+)

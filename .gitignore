@@ -1,0 +1,8 @@
+CHARGEDRONE-*/
+*-rescue*
+gerber/
+WRL/
+*.o
+*.cod
+*-bak
+
