@@ -12,4 +12,6 @@ ChargeDrone-schema.pdf : schematic
 
 ChargeDroneWRL-v1.zip : 3D export
 
+PlexiCutting/ : directory containing plexiglas cutting files
+
 ### metalu.net 2020 for GroupeF
